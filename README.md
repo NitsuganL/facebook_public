@@ -13,4 +13,4 @@
 - [ ] No check
 - [ ] No check
 
-COLOR #17fc03 #0969DA
+:smiling_face_with_three_hearts: POGI KO :smiling_face_with_three_hearts:
