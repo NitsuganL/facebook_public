@@ -12,4 +12,5 @@
 - [x] Check    
 - [ ] No check
 - [ ] No check
-COLOR`#17fc03` `#0969DA`
+
+COLOR #17fc03 #0969DA
